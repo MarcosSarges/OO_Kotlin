@@ -15,9 +15,3 @@ class Pessoa {
 }
 
 
-fun main() {
-    val mp = Pessoa()
-
-    println(mp.pessoaInfo())
-
-}
